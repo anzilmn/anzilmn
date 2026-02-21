@@ -1,10 +1,11 @@
 # 💫 About Me:
-* 🔭 **I’m currently working on** | My Full-Stack Portfolio and a dynamic E-commerce backend using Django.
-* 👯 **I’m looking to collaborate on** | Open-source Python/Django projects and complex backend architectures.
-* 🤝 **I’m looking for help with** | Advanced DevOps workflows and scaling Django apps with PostgreSQL on cloud platforms.
-* 🌱 **I’m currently learning** | REST Framework (DRF) for building APIs and advanced Tailwind CSS animations.
-* 💬 **Ask me about** | Django, Python logic, WhiteNoise for static files, and setting up Uptime monitors for free hosting.
-* ⚡ **Fun fact** | I can fix a "Server 500 Error" faster than I can decide what to have for lunch!
+
+* 🔭 **I’m currently working on** | A **Hotel Booking System** with Django (handling bookings and availability) and a **YouTube Clone** using React.js for a high-performance video UI.
+* 👯 **I’m looking to collaborate on** | Full-Stack projects involving **Django REST Framework** and **React-Redux** integrations.
+* 🤝 **I’m looking for help with** | Optimizing React state management and scaling Python-based booking engines.
+* 🌱 **I’m currently learning** | Deep diving into **Django’s Class-Based Views** and advanced **React Hooks** to build more efficient, reusable components.
+* 💬 **Ask me about** | Django, React, Static file serving on Render, and building responsive portfolio architectures.
+* ⚡ **Fun fact** | I debug code better at 2 AM than I do after coffee!
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_anzil_mn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/muhamad-anzil-09a5b63ab) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adhnanmnadhnu@gmail.com) 

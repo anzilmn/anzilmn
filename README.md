@@ -1,6 +1,10 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
-
+* 🔭 **I’m currently working on** | My Full-Stack Portfolio and a dynamic E-commerce backend using Django.
+* 👯 **I’m looking to collaborate on** | Open-source Python/Django projects and complex backend architectures.
+* 🤝 **I’m looking for help with** | Advanced DevOps workflows and scaling Django apps with PostgreSQL on cloud platforms.
+* 🌱 **I’m currently learning** | REST Framework (DRF) for building APIs and advanced Tailwind CSS animations.
+* 💬 **Ask me about** | Django, Python logic, WhiteNoise for static files, and setting up Uptime monitors for free hosting.
+* ⚡ **Fun fact** | I can fix a "Server 500 Error" faster than I can decide what to have for lunch!
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_anzil_mn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/muhamad-anzil-09a5b63ab) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adhnanmnadhnu@gmail.com) 

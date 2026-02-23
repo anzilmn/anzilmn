@@ -1,9 +1,6 @@
 # 💫 About Me:
 
 * 🔭 **I’m currently working on** | A **Hotel Booking System** with Django (handling bookings and availability) and a **YouTube Clone** using React.js for a high-performance video UI.
-* 👯 **I’m looking to collaborate on** | Full-Stack projects involving **Django REST Framework** and **React-Redux** integrations.
-* 🤝 **I’m looking for help with** | Optimizing React state management and scaling Python-based booking engines.
-* 🌱 **I’m currently learning** | Deep diving into **Django’s Class-Based Views** and advanced **React Hooks** to build more efficient, reusable components.
 * 💬 **Ask me about** | Django, React, Static file serving on Render, and building responsive portfolio architectures.
 * ⚡ **Fun fact** | I debug code better at 2 AM than I do after coffee!
 

@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-* 🔭 **I’m currently working on** | A **Hotel Booking System** with Django (handling bookings and availability) and a **YouTube Clone** using React.js for a high-performance video UI.
+* 🔭 **💻 Skilled in React.js, Node.js, Express.js, Python, Django, and AI-based development, with hands-on experience building scalable web applications and intelligent systems.
 * 💬 **Ask me about** | Django, React, Static file serving on Render, and building responsive portfolio architectures.
 * ⚡ **Fun fact** | I debug code better at 2 AM than I do after coffee!
 

@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-* 🔭 **💻 Skilled in React.js, Node.js, Express.js, Python, Django, and AI-based development, with hands-on experience building scalable web applications and intelligent systems.
+* 💻 Skilled in React.js, Node.js, Express.js, Python, Django, and AI-based development, with hands-on experience building scalable web applications and intelligent systems.
 * 💬 **Ask me about** | Django, React, Static file serving on Render, and building responsive portfolio architectures.
 
 

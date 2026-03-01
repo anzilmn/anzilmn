@@ -2,7 +2,7 @@
 
 * 🔭 **💻 Skilled in React.js, Node.js, Express.js, Python, Django, and AI-based development, with hands-on experience building scalable web applications and intelligent systems.
 * 💬 **Ask me about** | Django, React, Static file serving on Render, and building responsive portfolio architectures.
-* ⚡ **Fun fact** | I debug code better at 2 AM than I do after coffee!
+
 
 ## 🌐 Socials:
 [![Portfolio](https://img.shields.io/badge/Portfolio-22d3ee?style=for-the-badge&logo=react&logoColor=black)](https://anzil-portfolio.onrender.com/)
